@@ -1,0 +1,60 @@
+C:\Users\User\source\repos\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.vcxproj.AssemblyReference.cache
+C:\Users\User\source\repos\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.loginForm.resources
+C:\Users\User\source\repos\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.vcxproj.GenerateResource.cache
+C:\Users\User\source\repos\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.Dashboard.resources
+C:\Users\User\source\repos\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.registrationForm.resources
+C:\Users\User\source\repos\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.Income.resources
+C:\Users\User\source\repos\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.Expences.resources
+C:\Users\User\source\repos\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.setBudget.resources
+C:\Users\User\source\repos\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.Showing Report.resources
+C:\Users\User\source\repos\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.Accademic schedule.resources
+C:\Users\shaki\Desktop\OOP_Project\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.vcxproj.AssemblyReference.cache
+C:\Users\shaki\Desktop\OOP_Project\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.Accademic schedule.resources
+C:\Users\shaki\Desktop\OOP_Project\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.Dashboard.resources
+C:\Users\shaki\Desktop\OOP_Project\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.Expences.resources
+C:\Users\shaki\Desktop\OOP_Project\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.Income.resources
+C:\Users\shaki\Desktop\OOP_Project\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.loginForm.resources
+C:\Users\shaki\Desktop\OOP_Project\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.registrationForm.resources
+C:\Users\shaki\Desktop\OOP_Project\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.setBudget.resources
+C:\Users\shaki\Desktop\OOP_Project\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.Showing Report.resources
+C:\Users\shaki\Desktop\OOP_Project\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.vcxproj.GenerateResource.cache
+D:\Personal_Organizer_project\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.vcxproj.AssemblyReference.cache
+D:\Personal_Organizer_project\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.Accademic schedule.resources
+D:\Personal_Organizer_project\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.Dashboard.resources
+D:\Personal_Organizer_project\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.Expences.resources
+D:\Personal_Organizer_project\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.Income.resources
+D:\Personal_Organizer_project\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.loginForm.resources
+D:\Personal_Organizer_project\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.registrationForm.resources
+D:\Personal_Organizer_project\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.setBudget.resources
+D:\Personal_Organizer_project\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.Showing Report.resources
+D:\Personal_Organizer_project\personalOrganizer\personalOrganizer\x64\Debug\personalOrganizer.vcxproj.GenerateResource.cache
+C:\Users\shaki\Desktop\New folder\MY Update\personalOrganizer\x64\Debug\personalOrganizer.vcxproj.AssemblyReference.cache
+C:\Users\shaki\Desktop\New folder\MY Update\personalOrganizer\x64\Debug\personalOrganizer.Accademic schedule.resources
+C:\Users\shaki\Desktop\New folder\MY Update\personalOrganizer\x64\Debug\personalOrganizer.Dashboard.resources
+C:\Users\shaki\Desktop\New folder\MY Update\personalOrganizer\x64\Debug\personalOrganizer.Expences.resources
+C:\Users\shaki\Desktop\New folder\MY Update\personalOrganizer\x64\Debug\personalOrganizer.Income.resources
+C:\Users\shaki\Desktop\New folder\MY Update\personalOrganizer\x64\Debug\personalOrganizer.loginForm.resources
+C:\Users\shaki\Desktop\New folder\MY Update\personalOrganizer\x64\Debug\personalOrganizer.registrationForm.resources
+C:\Users\shaki\Desktop\New folder\MY Update\personalOrganizer\x64\Debug\personalOrganizer.setBudget.resources
+C:\Users\shaki\Desktop\New folder\MY Update\personalOrganizer\x64\Debug\personalOrganizer.Showing Report.resources
+C:\Users\shaki\Desktop\New folder\MY Update\personalOrganizer\x64\Debug\personalOrganizer.vcxproj.GenerateResource.cache
+C:\Users\shaki\Desktop\Personal_Organizer_Project\personalOrganizer\x64\Debug\personalOrganizer.vcxproj.AssemblyReference.cache
+C:\Users\shaki\Desktop\Personal_Organizer_Project\personalOrganizer\x64\Debug\personalOrganizer.Accademic schedule.resources
+C:\Users\shaki\Desktop\Personal_Organizer_Project\personalOrganizer\x64\Debug\personalOrganizer.Dashboard.resources
+C:\Users\shaki\Desktop\Personal_Organizer_Project\personalOrganizer\x64\Debug\personalOrganizer.Expences.resources
+C:\Users\shaki\Desktop\Personal_Organizer_Project\personalOrganizer\x64\Debug\personalOrganizer.Income.resources
+C:\Users\shaki\Desktop\Personal_Organizer_Project\personalOrganizer\x64\Debug\personalOrganizer.loginForm.resources
+C:\Users\shaki\Desktop\Personal_Organizer_Project\personalOrganizer\x64\Debug\personalOrganizer.registrationForm.resources
+C:\Users\shaki\Desktop\Personal_Organizer_Project\personalOrganizer\x64\Debug\personalOrganizer.setBudget.resources
+C:\Users\shaki\Desktop\Personal_Organizer_Project\personalOrganizer\x64\Debug\personalOrganizer.Showing Report.resources
+C:\Users\shaki\Desktop\Personal_Organizer_Project\personalOrganizer\x64\Debug\personalOrganizer.vcxproj.GenerateResource.cache
+D:\My Projects\Personal_Organizer_Project\personalOrganizer\x64\Debug\personalOrganizer.vcxproj.AssemblyReference.cache
+D:\My Projects\Personal_Organizer_Project\personalOrganizer\x64\Debug\personalOrganizer.Accademic schedule.resources
+D:\My Projects\Personal_Organizer_Project\personalOrganizer\x64\Debug\personalOrganizer.Dashboard.resources
+D:\My Projects\Personal_Organizer_Project\personalOrganizer\x64\Debug\personalOrganizer.Expences.resources
+D:\My Projects\Personal_Organizer_Project\personalOrganizer\x64\Debug\personalOrganizer.Income.resources
+D:\My Projects\Personal_Organizer_Project\personalOrganizer\x64\Debug\personalOrganizer.loginForm.resources
+D:\My Projects\Personal_Organizer_Project\personalOrganizer\x64\Debug\personalOrganizer.registrationForm.resources
+D:\My Projects\Personal_Organizer_Project\personalOrganizer\x64\Debug\personalOrganizer.setBudget.resources
+D:\My Projects\Personal_Organizer_Project\personalOrganizer\x64\Debug\personalOrganizer.Showing Report.resources
+D:\My Projects\Personal_Organizer_Project\personalOrganizer\x64\Debug\personalOrganizer.vcxproj.GenerateResource.cache

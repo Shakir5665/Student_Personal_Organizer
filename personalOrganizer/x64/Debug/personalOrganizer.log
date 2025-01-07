@@ -1,0 +1,13 @@
+﻿  Accademic schedule.cpp
+  Dashboard.cpp
+  Expences.cpp
+  Income.cpp
+  loginForm.cpp
+  Program.cpp
+  registrationForm.cpp
+  setBudget.cpp
+  Showing Report.cpp
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Generating Code...
+  Accademic schedule.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  personalOrganizer.vcxproj -> D:\My Projects\Personal_Organizer_Project\x64\Debug\personalOrganizer.exe
