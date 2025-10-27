@@ -1,6 +1,6 @@
 # 📘 Personal Organizer and Academic Scheduler
 
-A **C++ desktop application** with an intuitive GUI that helps students and professionals manage both **personal finances** and **academic schedules** in one place.  
+A **C# desktop application** with an intuitive GUI that helps students and professionals manage both **personal finances** and **academic schedules** in one place.  
 The system enables users to **track income/expenses**, **set budgets**, **generate reports**, and **organize lectures, assignments, and exams efficiently**.
 
 ---
